@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    margin: 20px 100px;
+}
+
+button{
+    padding: 10px;
+    font-size: 14px;
+}
+
+select{
+    padding: 10px;
+}
+
+.img{
+    background-image: url(https://cdn.pixabay.com/photo/2013/07/13/13/34/man-161135_1280.png);
+    height: 220px;
+    width: 140px;
+    display: inline-block;
+    background-size: cover;
+    margin-left: 30px;
+
+}
+
+#factsContainer{
+    margin-top: 50px;
+  padding: 50px;
+  border: 2px dotted rgb(8, 9, 9);
+}
